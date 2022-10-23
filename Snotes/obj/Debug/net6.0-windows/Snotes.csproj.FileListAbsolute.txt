@@ -1,0 +1,17 @@
+C:\Users\sveno\OneDrive\Desktop\Projects\Beginner Projects\Snotes\bin\Debug\net6.0-windows\Snotes.exe
+C:\Users\sveno\OneDrive\Desktop\Projects\Beginner Projects\Snotes\bin\Debug\net6.0-windows\Snotes.deps.json
+C:\Users\sveno\OneDrive\Desktop\Projects\Beginner Projects\Snotes\bin\Debug\net6.0-windows\Snotes.runtimeconfig.json
+C:\Users\sveno\OneDrive\Desktop\Projects\Beginner Projects\Snotes\bin\Debug\net6.0-windows\Snotes.dll
+C:\Users\sveno\OneDrive\Desktop\Projects\Beginner Projects\Snotes\bin\Debug\net6.0-windows\Snotes.pdb
+C:\Users\sveno\OneDrive\Desktop\Projects\Beginner Projects\Snotes\obj\Debug\net6.0-windows\Snotes.csproj.AssemblyReference.cache
+C:\Users\sveno\OneDrive\Desktop\Projects\Beginner Projects\Snotes\obj\Debug\net6.0-windows\Snotes.Form1.resources
+C:\Users\sveno\OneDrive\Desktop\Projects\Beginner Projects\Snotes\obj\Debug\net6.0-windows\Snotes.csproj.GenerateResource.cache
+C:\Users\sveno\OneDrive\Desktop\Projects\Beginner Projects\Snotes\obj\Debug\net6.0-windows\Snotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sveno\OneDrive\Desktop\Projects\Beginner Projects\Snotes\obj\Debug\net6.0-windows\Snotes.AssemblyInfoInputs.cache
+C:\Users\sveno\OneDrive\Desktop\Projects\Beginner Projects\Snotes\obj\Debug\net6.0-windows\Snotes.AssemblyInfo.cs
+C:\Users\sveno\OneDrive\Desktop\Projects\Beginner Projects\Snotes\obj\Debug\net6.0-windows\Snotes.csproj.CoreCompileInputs.cache
+C:\Users\sveno\OneDrive\Desktop\Projects\Beginner Projects\Snotes\obj\Debug\net6.0-windows\Snotes.dll
+C:\Users\sveno\OneDrive\Desktop\Projects\Beginner Projects\Snotes\obj\Debug\net6.0-windows\refint\Snotes.dll
+C:\Users\sveno\OneDrive\Desktop\Projects\Beginner Projects\Snotes\obj\Debug\net6.0-windows\Snotes.pdb
+C:\Users\sveno\OneDrive\Desktop\Projects\Beginner Projects\Snotes\obj\Debug\net6.0-windows\Snotes.genruntimeconfig.cache
+C:\Users\sveno\OneDrive\Desktop\Projects\Beginner Projects\Snotes\obj\Debug\net6.0-windows\ref\Snotes.dll
